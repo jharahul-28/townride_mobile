@@ -1,0 +1,61 @@
+# Node modules
+node_modules/
+
+# Expo specific
+.expo/
+.expo-shared/
+
+# Build output
+dist/
+build/
+web-build/
+
+# macOS system files
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+expo-debug.log
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+android/.cxx/
+android/local.properties
+
+# iOS
+ios/Pods/
+ios/build/
+ios/Podfile.lock
+ios/.symlinks/
+ios/Flutter/
+
+# Metro bundler cache
+.metro-cache/
+
+# Babel cache
+babel.config.js
+
+# Watchman
+.watchmanconfig
+
+# Misc
+*.swp
+*.lock
+*.log
+.env
+.env.*
+
+# VSCode settings
+.vscode/
+.history/
+
+# Test coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo

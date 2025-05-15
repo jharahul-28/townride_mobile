@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "150667586089",
+    "firebase_url": "https://slotin-townride-default-rtdb.firebaseio.com",
+    "project_id": "slotin-townride",
+    "storage_bucket": "slotin-townride.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150667586089:android:47ef62eeb6037e474cca38",
+        "android_client_info": {
+          "package_name": "com.mycompany.towntaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150667586089-15hulfjf86jbpmn7p8gjh6b9nhigvo5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.towntaxi",
+            "certificate_hash": "f8046b5b2487bfcedcb3bb728ce79bc0342f2be5"
+          }
+        },
+        {
+          "client_id": "150667586089-1bpbbpqfdsuk0e6sarbl1tbo5c15e62n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGsOdKoFMyK8j0BPf42U6U_5Up89f3smY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150667586089-1bpbbpqfdsuk0e6sarbl1tbo5c15e62n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "150667586089-3i5ecvbff429psudlmcp4s460s2mf3i3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.towntaxi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
